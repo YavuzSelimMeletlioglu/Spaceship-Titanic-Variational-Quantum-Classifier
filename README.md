@@ -85,7 +85,7 @@ Script çalıştırıldığında:
 | Hiperparametre | Değer |
 |---|---|
 | Qubit Sayısı | `⌈log₂(n_features)⌉` |
-| Kuantum Katman Sayısı | 10 |
+| Kuantum Katman Sayısı | 5 |
 | Optimizasyon Algoritması | AdamW |
 | Öğrenme Oranı | 0.05 |
 | Weight Decay | 0.05 |
@@ -157,7 +157,7 @@ When executed, the script will:
 | Hyperparameter | Value |
 |---|---|
 | Number of Qubits | `⌈log₂(n_features)⌉` |
-| Quantum Layers | 10 |
+| Quantum Layers | 5 |
 | Optimizer | AdamW |
 | Learning Rate | 0.05 |
 | Weight Decay | 0.05 |
